@@ -1,25 +1,25 @@
-##Terms of Service
+## Terms of Service
 
-###Introduction
+### Introduction
 Thank you for visiting my website (referred to as "Website")
 
-###My Website
+### My Website
 
 This website allows you to discover information about me, topics I find interesting, things I am working on, or possibly reach out to me for collaboration.
 
-###About Me
+### About Me
 
 I am an individual. This is my personal website. I use it to showcase what I am working on, for email, for testing code, and a number of other reasons.
 
-###Content
+### Content
 
 All content on this Website belongs to me, unless explicitly mentioned to belong to anyone else. You do not have permission to reproduce any content created by me, unless I explicitly provide permission to you in writing. (referred to as "Content")
 
-###Personal Data
+### Personal Data
 
 I do not collect any information from you on this website. I do not use cookies or tracking pixels. 
 
-###Permissions and Restrictions
+### Permissions and Restrictions
 
 You may visit the Website as made available to you, as long as you comply with this Agreement and applicable law. You may view or listen to Content for your personal, non-commercial use.
 
@@ -35,14 +35,14 @@ The following restrictions apply to your use of the Service. You are not allowed
 
 5. use the Website to view or listen to Content other than for personal, non-commercial use 
 
-###Reservation
+### Reservation
 
 Visiting this website does not give you ownership of or rights to any aspect of the website or content on this site.
 
-###Third-Party Links
+### Third-Party Links
 
 The Website may contain links to third-party websites and online services that are not owned or controlled by me. I have no control over, and assume no responsibility for, such websites and online services. Be aware when you leave the Service; we suggest you read the terms and privacy policy of each third-party website and online service that you visit.
 
-###Code of conduct
+### Code of conduct
 
 You agree to not engage in any behavior that will cause any inconvenience to myself or to any other user trying to visit my website. 
